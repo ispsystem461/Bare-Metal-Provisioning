@@ -1,0 +1,2 @@
+# Bare-Metal-Provisioning
+DCImanager allows you to manage servers, VLAN, and all the necessary components from a single point of access. Automate server deployment and server provisioning, inventorize active servers and those on stand-by, keep track of electricity consumption and traffic, automatically add new equipment, as well as reboot servers remotely. Receive full information about your DC as a whole and every server in particular!
